@@ -1,5 +1,10 @@
  #ut{
             color:red;
+
+        }
+        nav{
+            font-weight:bold;
+            background-color:#F3F3F3 ;
         }
         body{
             background-color:#FFFFFF;
@@ -11,3 +16,31 @@
             color:#FFFFFF;
             font-family:Georgia;
         }
+        h2{
+            line-height: 140%;
+            padding: .5rem;
+            color:#424242;
+            font-family:Georgia;
+        }
+        dt{
+            color:#003059;
+            font-weight:bold;
+
+        }
+        #wrapper{
+            margin-right:auto;
+            margin-left:auto;
+            width:80%;
+        }
+        .ut{
+            color:#BA1C21;
+        }
+        footer{
+            font: size 0.70rem;
+            font-style: italic;
+            text-align: center;
+
+        }
+        
+
+        
